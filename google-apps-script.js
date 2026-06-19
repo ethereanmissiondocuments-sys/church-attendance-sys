@@ -227,7 +227,7 @@ function ensureSheetsExist() {
       ['class','c3','Ewe Class','#7c3aed'],
       ['class','c4','Youth Class','#dc2626'],
       ['class','c5','Children','#0891b2'],
-      ['class','c6','Elders','#d97706'],
+      ['class','c6','English Class','#d97706'],
       ['dept','d1','Ushers',''],
       ['dept','d2','Choristers',''],
       ['dept','d3','Youth Choir',''],
